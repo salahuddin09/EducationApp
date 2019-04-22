@@ -9,6 +9,10 @@ import org.springframework.context.ConfigurableApplicationContext;
 import com.ninetyninesoft.education.config.StageManager;
 import com.ninetyninesoft.education.view.FxmlView;
 
+/*
+    @ 99 Soft Team
+*/
+
 @SpringBootApplication
 public class Main extends Application {
 
